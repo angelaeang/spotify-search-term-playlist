@@ -1,4 +1,4 @@
-# spotifySearchTermPlaylist
+# spotify-search-term-playlist
 
 ## Background
 - This program makes a Spotify playlist based on a search term.
